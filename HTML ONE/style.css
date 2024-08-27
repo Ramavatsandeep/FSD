@@ -1,0 +1,58 @@
+
+body {
+    background-image: url('sandeep.jpg');
+    position: relative;
+    height: 100vh;           
+    margin: 0;              
+    background-color: aliceblue;
+}
+
+
+.hex {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    background-color:blueviolet;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+.Email{
+    width:100%;
+    padding:12px 20px;
+    margin: 8px 0;
+    box-sizing:border-box;
+
+
+}
+.Password{
+    width:100%;
+    padding:12px 12px;
+    margin:8px;
+    box-sizing:border-box;
+}
+.radio1{
+    width:100%;
+    padding:12px 12px;
+    margin:8px;
+    box-sizing:border-box;
+
+}
+.radio2{
+    width:100%;
+    padding:12px 12px;
+    margin:8px;
+    box-sizing:border-box;
+}
+.h1{
+    text-align:center;
+    background-color: blueviolet;
+}
+
+
+
+
+
